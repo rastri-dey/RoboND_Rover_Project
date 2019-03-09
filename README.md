@@ -20,4 +20,4 @@ Then launch the simulator and choose "Autonomous Mode".  The rover should drive 
 ## Results
 
 The rover attains a fidelity of 71.1% after mapping 69.9% area.
-![Fidelity_Results](Results/Fidelity_71.1Percent_MappedArea_69.9Percent.png)
+![Fidelity_Results](Results/Fidelity_71Percent_MappedArea_70Percent.PNG)
