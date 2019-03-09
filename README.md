@@ -1,7 +1,4 @@
 # RoboND_Rover_Project
-Search and Sample Return Project
-
-![alt text][image_0] 
 
 The project is modeled after the [NASA sample return challenge](https://www.nasa.gov/directorates/spacetech/centennial_challenges/sample_return_robot/index.html). It discusses about the three essential elements of robotics, which are perception, decision making and actuation.  The project is carried out in a simulator environment built with the Unity game engine.  
 
@@ -23,4 +20,4 @@ Then launch the simulator and choose "Autonomous Mode".  The rover should drive 
 ## Results
 
 The rover attains a fidelity of 71.1% after mapping 69.9% area.
-![Fidelity_Results](RoboND_Rover_Project/Results/Fidelity_71.1Percent_MappedArea_69.9Percent.png)
+![Fidelity_Results](Results/Fidelity_71.1Percent_MappedArea_69.9Percent.png)
